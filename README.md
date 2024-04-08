@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Olá, Sou Petrick Alexandre 👋 </h1>
 
-<!--
-**Petricksa/Petricksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub!
 
-Here are some ideas to get you started:
+Um Pouco sobre mim!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Atualmente estou em transição de carreira e tenho me dedicado aos estudos no curso de formação
+  em Desenvolvimento Full-stack na Escola DNC, e na Graduaçao em Engenharia de Software no Centro
+  Universitário Estacio de São Paulo.
+
+* Tenho focado em projetos de Desenvolvimento Front-end e Web Design, mas também possuo conhecimentos
+  em Phyton, SQL, Sass,Figma, Pacote Adobe, Edição de videos, Desing Grafico e excel avançado.
+
+* Possuo experiencias em aréas de logistica organizacional, liderança, atendimento ao cliente e Design.
+
+  Entre em contato comigo: https://www.linkedin.com/in/petrick-alexandre-627960255/
